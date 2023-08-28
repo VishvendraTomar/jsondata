@@ -1,0 +1,41 @@
+
+{
+  "products":   
+    [
+  {
+    "id": 1,
+    "name": "Panther ",
+    "image": "https://d2f9uwgpmber13.cloudfront.net/public/uploads/mobile/2fa7b9466cc1567e571968bb0206d98b",
+    "review": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Dirtwolf",
+    "image": "https://d2f9uwgpmber13.cloudfront.net/public/uploads/mobile/cce0d652a837a89211db9fb18590b538",
+    "review": 3.8
+  },
+  {
+    "id": 3,
+    "name": "PANTHER 27.5T - TURQUOISE",
+    "image": "https://d2f9uwgpmber13.cloudfront.net/public/uploads/mobile/4c97dfa3e3971f684832172212039e4e",
+    "review": 5.0
+  },
+  {
+    "id": 4,
+    "name": "MERAKI ULTRA 27.5T",
+    "image": "https://d2f9uwgpmber13.cloudfront.net/public/uploads/mobile/4c97dfa3e3971f684832172212039e4e",
+    "review": 4.2
+  },
+  {
+    "id": 5,
+    "name": "ROCKRIDER",
+    "image": "https://d2f9uwgpmber13.cloudfront.net/public/uploads/mobile/4c97dfa3e3971f684832172212039e4e",
+    "review": 4.7
+  },
+  {
+    "id": 6,
+    "name": "BTWIN",
+    "image": "https://contents.mediadecathlon.com/p2539202/k$77e849a8741215d9368b8a9a4a36abb4/mountain-bike-rockrider-st40-black.jpg?format=auto&quality=70&f=300x0",
+    "review": 3.5
+  }
+]}
